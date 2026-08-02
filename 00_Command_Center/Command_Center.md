@@ -24,6 +24,10 @@ This repository is for project-level data engineering work. General SQL practice
 - dbt and Airflow where appropriate
 - Markdown
 
+## Current Status
+
+Foundation initialized. The repository currently contains documentation and base folders for future project implementation.
+
 ## Folder Structure Explanation
 
 - `00_Command_Center/`: repository-specific direction
@@ -45,3 +49,7 @@ This repository is for project-level data engineering work. General SQL practice
 - Data quality frameworks
 - Orchestration examples
 - Warehouse modeling examples
+
+## Future Implementation Direction
+
+Start with small reproducible pipelines that document inputs, transformations, outputs, and validation checks. Add orchestration only when the project scope benefits from it.

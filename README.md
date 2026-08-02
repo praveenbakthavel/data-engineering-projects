@@ -4,6 +4,10 @@
 
 This repository is for data engineering projects that demonstrate ingestion, transformation, data quality, orchestration, and practical pipeline design.
 
+## Scope
+
+This repository contains complete data engineering project work and supporting examples. General SQL practice belongs in `sql-playground`, Spark-specific practice belongs in `pyspark-playground`, and shared datasets belong in `data-assets-library`.
+
 ## What This Repository Contains
 
 - Data pipeline project foundations
@@ -36,6 +40,10 @@ data-engineering-projects/
 
 Use this repository for complete data engineering examples. Keep shared datasets in `data-assets-library` and reference them from project documentation.
 
+## Role in Engineering Portfolio
+
+This repository is the main data engineering project area of the portfolio. It brings together SQL, Python, containers, data quality, and pipeline design.
+
 ## Future Improvements
 
 - Add batch pipeline examples
@@ -45,6 +53,6 @@ Use this repository for complete data engineering examples. Keep shared datasets
 
 ## Related Repositories
 
-- `data-assets-library`
-- `containers-playground`
-- `pyspark-playground`
+- [data-assets-library](../data-assets-library)
+- [containers-playground](../containers-playground)
+- [pyspark-playground](../pyspark-playground)
