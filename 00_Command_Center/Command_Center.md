@@ -6,7 +6,7 @@ Build practical data engineering projects that show reliable data movement, tran
 
 ## Scope
 
-This repository is for project-level data engineering work. General SQL practice belongs in `sql-playground`; PySpark-specific practice belongs in `pyspark-playground`.
+This repository is for project-level data engineering work. General SQL practice belongs in `sql-playground`, reusable datasets belong in `data-assets-library`, and cloud deployment or infrastructure practice belongs in `cloud-engineering-lab` when needed.
 
 ## Objectives
 
