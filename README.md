@@ -6,7 +6,7 @@ This repository is for data engineering projects that demonstrate ingestion, tra
 
 ## Scope
 
-This repository contains complete data engineering project work and supporting examples. General SQL practice belongs in `sql-playground`, Spark-specific practice belongs in `pyspark-playground`, and shared datasets belong in `data-assets-library`.
+This repository contains complete data engineering project work and supporting examples. General SQL practice belongs in `sql-playground`, shared datasets belong in `data-assets-library`, and cloud deployment or infrastructure practice belongs in `cloud-engineering-lab` when the cloud phase needs it.
 
 ## What This Repository Contains
 
@@ -53,6 +53,8 @@ This repository is the main data engineering project area of the portfolio. It b
 
 ## Related Repositories
 
-- [data-assets-library](../data-assets-library)
-- [containers-playground](../containers-playground)
-- [pyspark-playground](../pyspark-playground)
+- [data-assets-library](https://github.com/praveenbakthavel/data-assets-library)
+- [sql-playground](https://github.com/praveenbakthavel/sql-playground)
+- [python-playground](https://github.com/praveenbakthavel/python-playground)
+- [analytics-case-studies](https://github.com/praveenbakthavel/analytics-case-studies)
+- [cloud-engineering-lab](https://github.com/praveenbakthavel/cloud-engineering-lab)
