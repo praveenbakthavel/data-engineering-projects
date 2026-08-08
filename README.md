@@ -19,9 +19,10 @@ This repository contains complete data engineering project work and supporting e
 
 - Python
 - SQL
-- Docker
+- Docker / Docker Compose when useful
 - DuckDB or PostgreSQL
 - dbt and Airflow when project scope requires them
+- PySpark when distributed data processing is useful
 
 ## Folder Structure
 
@@ -40,15 +41,18 @@ data-engineering-projects/
 
 Use this repository for complete data engineering examples. Keep shared datasets in `data-assets-library` and reference them from project documentation.
 
+Add Docker, dbt, Airflow, PySpark, or other implementation folders only when an actual project requires them; the repository does not need a folder for every technology in advance.
+
 ## Role in Engineering Portfolio
 
-This repository is the main data engineering project area of the portfolio. It brings together SQL, Python, containers, data quality, and pipeline design.
+This repository is the main data engineering project area of the portfolio. It brings together SQL, Python, containers, transformation, orchestration, distributed processing, data quality, and pipeline design.
 
 ## Future Improvements
 
 - Add batch pipeline examples
 - Add data quality checks
 - Add orchestration examples
+- Add distributed processing examples where scale justifies PySpark
 - Add architecture diagrams
 
 ## Related Repositories
